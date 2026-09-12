@@ -1,0 +1,49 @@
+source flow:
+
+Back End:
+Singly Linked List
+Hash Table: linear probing
+Tree: AVL, Trie
+Graph: Minimum Spanning Tree, Dijkstra
+
+Front End:
+	Show update real time
+Initialize:
+	Empty Data
+	Manually input data
+		Through Add function
+	Import data from files
+		Format?
+		String input?
+			Mem leak?
+	Random data
+		Create random number
+Add:
+	By a proper box
+Delete:
+	point and click to erase the point
+Update:
+	point and click to update the point
+Search:
+	from the root node
+	highlight the current searching node
+Graph:
+	Nothing special
+	
+type of visualizations:
+Run-step-by-step:
+	allow user to go to each step
+Run-at-once:
+	quickly from first to last
+	allow users to change speed
+	show the corresponding source code
+	
+Required gadget:
+	Slider: 
+		
+	Button:
+		texture: 2 state: idle and hovering
+		hovering texture
+	List box
+	Hovering text
+	
